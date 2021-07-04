@@ -11,8 +11,9 @@ Devenvolvedora banckend Java(SpringBoot)
 ## Email
 - anna15soliveir@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santoskarolina&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoskarolina&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<a href="https://github.com/santoskarolina/santoskarolina">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santoskarolina&show_icons=true&theme=dracula&hide_title=true" />
+</a>
+<a href="https://github.com/santoskarolina/santoskarolina">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoskarolina&layout=compact&theme=dracula" />
+</a>
