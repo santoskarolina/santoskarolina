@@ -1,6 +1,3 @@
-
-
-
 # Olá, sou Ana Karolina 👋
 
 Engenharia de computação.
@@ -16,5 +13,6 @@ Devenvolvedora banckend Java(SpringBoot)
 ## Email
 - anna15soliveir@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?santoskarolina=anuraghazra)](https://github.com/santoskarolina/github-readme-stats)
   
 
