@@ -13,6 +13,7 @@ Devenvolvedora banckend Java(SpringBoot)
 ## Email
 - anna15soliveir@gmail.com
 
-[![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?santoskarolina=santoskarolina)](https://github.com/santoskarolina/santoskarolina)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?santoskarolina=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
