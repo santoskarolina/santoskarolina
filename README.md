@@ -1,6 +1,6 @@
-<h1 align="center"> Olá, sou Ana Karolina 👋 </h1>
-<p align="center"> Engenharia de computação. </p>
-<p align="center"> Devenvolvedora banckend Java(SpringBoot) </p>
+<div align="center">
+ <img src="https://github.com/santoskarolina/html/blob/main/html/perfil-git.png" />
+</div> 
 
 ## Contatos
 
