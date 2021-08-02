@@ -7,6 +7,7 @@
  - [Instagram](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Linkedin](https://www.linkedin.com/in/karolina104016/)
  - [Site Pessoal](https://ana-karolina.netlify.app/)
+ - [Canal no youtube](https://www.youtube.com/channel/UCg1mKCSMgs5dq7yMBxbVyAw)
 
 ## Email
 - anna15soliveira@gmail.com
