@@ -1,15 +1,10 @@
-<div align="center">
- <img src="https://github.com/santoskarolina/html/blob/main/html/perfil-git.png" />
-</div> 
+
 
 ## Contatos
 
  - [Instagram](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Linkedin](https://www.linkedin.com/in/karolina104016/)
- - [Site Pessoal](https://ana-karolina.netlify.app/)
- - [Canal no youtube](https://www.youtube.com/channel/UCg1mKCSMgs5dq7yMBxbVyAw)
-
-## Email
+ ## Email
 - anna15soliveira@gmail.com
 
 <div align="center">
