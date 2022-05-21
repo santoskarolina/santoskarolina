@@ -6,7 +6,7 @@
  - [Linkedin](https://www.linkedin.com/in/karolina104016/)
  ## Contatos
 - anna15soliveira@gmail.com
-- https://developer-karol.netlify.app
+- [Site pessoal](https://developer-karol.netlify.app)
 
 <div align="center">
  <a href="https://github.com/santoskarolina" align="center">
