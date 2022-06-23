@@ -13,6 +13,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=santoskarolina&show_icons=true&theme=dracula&hide_title=true" />
  </a>
  <a href="https://github.com/santoskarolina" align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoskarolina&layout=compact&theme=dracula" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoskarolina&theme=dracula" />
  </a>
 <div>
