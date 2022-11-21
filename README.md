@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47zdnw5rhgrzkdaw0ytdv0kn4rdtcz3wy88lxjkl53&rid=giphy.gif&ct=g" width="600" height="300"/>
  
  <div id="badges">
   <a href="https://www.linkedin.com/in/karolina104016/">
