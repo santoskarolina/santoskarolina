@@ -23,7 +23,7 @@
 
 - :telescope: I’m working as a Web developer.
 
-- 💻: I'm studying React native.
+- 💻: I'm studying React JS.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
