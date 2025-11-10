@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a mid-level frontend developer.
+- :telescope: Frontend developer.
 
 - 💻: I'm studying React JS.
 ---
