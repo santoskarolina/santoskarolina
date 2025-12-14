@@ -23,7 +23,7 @@
 
 - :telescope: Frontend developer.
 
-- 💻: I'm studying React JS.
+- 💻: I'm studying Java.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
