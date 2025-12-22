@@ -1,51 +1,38 @@
+# Olá, eu sou Ana Karolina👋
 
-<div  align="center" style="display: flex; align-items: center; justify-content: center;">
- <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
- </div>
+### Frontend Engineer | Angular Expert | React.JS & Next.JS
 
+Frontend Engineer focada em construir aplicações escaláveis e performáticas. Minha expertise central é no ecossistema **Angular**, onde exploro desde versões legadas até as mais recentes (v19+), aplicando **Standalone Components**, **Signals** e **Clean Architecture**. Também transito com fluidez em projetos **React** e **Next.js**.
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47zdnw5rhgrzkdaw0ytdv0kn4rdtcz3wy88lxjkl53&rid=giphy.gif&ct=g" width="600" height="300"/>
- 
- <div id="badges">
-  <a href="https://www.linkedin.com/in/karolina104016/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-</div>
+Além de codar, atuo na garantia da qualidade técnica através de code reviews criteriosos e na mentoria de outros desenvolvedores, sempre disseminando padrões de **Clean Code** e redução de débito técnico.
 
 ---
 
-### :woman_technologist: About Me :
+### 🛠️ No que eu trabalho
+- **Frontend Core:** Especialista em Angular (RxJS/NgRx/Signals), React e Next.js.
+- **Arquitetura:** Foco em escalabilidade, manutenção e arquiteturas modernas.
+- **Qualidade & Liderança:** Revisão de código, disseminação de boas práticas e mentoria.
+- **Cloud & DevOps:** Integrando soluções AWS (S3/CloudFront) e automação com GitHub Actions.
 
-- :telescope: Frontend developer.
-
-- 💻: I'm studying AWS.
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 💻 Tech Stack
 
-<div>          
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+- **Linguagens & Reatividade:** TypeScript, JavaScript (ES6+), RxJS, NgRx, Signals.
+- **Frameworks:** Angular (2 a 19+), React.js, Next.js.
+- **Estilização:** Tailwind CSS, SCSS, Styled Components, Angular Material.
+- **Infra & Ferramentas:** AWS (S3, CloudFront), GitHub Actions, Jest/Cypress.
 
- ---
+---
 
-### :fire: My top langs :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=santoskarolina&show_icons=true&theme=radical)
-<!-- <div align="center" style="display: flex">
- <a href="https://github.com/santoskarolina" align="center" style="heigth: 20rem">
-   <img src="https://github-readme-stats.vercel.app/api?username=santoskarolina&show_icons=true&theme=dracula&hide_title=true" />
- </a>
-<div> -->
- 
+### 📈 No que estou me aprofundando
+Atualmente, estou mergulhando no universo **Cloud (AWS)** para criar estratégias de deploy e infraestrutura que potencializam a experiência e performance do frontend.
 
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolina104016/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna15soliveira@gmail.com)
+
+---
