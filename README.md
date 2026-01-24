@@ -18,7 +18,7 @@ Além de codar, atuo na garantia da qualidade técnica através de code reviews 
 
 ### 💻 Tech Stack
 
-- **Linguagens & Reatividade:** TypeScript, JavaScript (ES6+), RxJS, NgRx, Signals.
+- **Linguagens & Reatividade:** TypeScript, JavaScript (ES6+), RxJS, NgRx, Signals, Zustand.
 - **Frameworks:** Angular (2 a 19+), React.js, Next.js.
 - **Estilização:** Tailwind CSS, SCSS, Styled Components, Angular Material.
 - **Infra & Ferramentas:** AWS (S3, CloudFront), GitHub Actions, Jest/Cypress.
@@ -30,7 +30,7 @@ Atualmente, estou mergulhando no universo **Cloud (AWS)** para criar estratégia
 
 ---
 
-### 📫 Vamos nos conectar?
+Estou sempre aberta a discussões sobre arquitetura frontend, mentorias e projetos inovadores. Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolina104016/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna15soliveira@gmail.com)
