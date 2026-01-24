@@ -25,10 +25,7 @@ Além de codar, atuo na garantia da qualidade técnica através de code reviews 
 
 ---
 
-### 📈 No que estou me aprofundando
 Atualmente, estou mergulhando no universo **Cloud (AWS)** para criar estratégias de deploy e infraestrutura que potencializam a experiência e performance do frontend.
-
----
 
 Estou sempre aberta a discussões sobre arquitetura frontend, mentorias e projetos inovadores. Vamos conversar?
 
