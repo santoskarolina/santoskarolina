@@ -1,8 +1,8 @@
 # Olá, eu sou Ana Karolina👋
 
-### Frontend Engineer | Angular Expert | React.JS & Next.JS
+### Frontend Developer | Angular Expert | React.JS & Next.JS
 
-Frontend Engineer focada em construir aplicações escaláveis e performáticas. Minha expertise central é no ecossistema **Angular**, onde exploro desde versões legadas até as mais recentes (v19+), aplicando **Standalone Components**, **Signals** e **Clean Architecture**. Também transito com fluidez em projetos **React** e **Next.js**.
+Frontend Developer focada em construir aplicações escaláveis e performáticas. Minha expertise central é no ecossistema **Angular**, onde exploro desde versões legadas até as mais recentes (v19+), aplicando **Standalone Components**, **Signals** e **Clean Architecture**. Também transito com fluidez em projetos **React** e **Next.js**.
 
 Além de codar, atuo na garantia da qualidade técnica através de code reviews criteriosos e na mentoria de outros desenvolvedores, sempre disseminando padrões de **Clean Code** e redução de débito técnico.
 
